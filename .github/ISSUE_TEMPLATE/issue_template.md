@@ -1,5 +1,5 @@
 ---
-name: Userstory template
+name: User Story Template
 about: |
   A template to create user stories.
   Remove all ... and examples before posting.
@@ -10,7 +10,7 @@ labels: enhancement
 
 **As a** ... (User, Author, logged in User...)  
 **I want to** ... (describe the goal)  
-**so that** ... (describe the reason)  
+**so that/in order to** ... (describe the reason)  
 ​
 
 ## Description
@@ -27,6 +27,8 @@ labels: enhancement
 
 ## Tasks
 
-- [ ] list the tasks that need to be performend within the dev team
-- [ ] e.g. Components, Storybook, testing
+- [ ] list the coding tasks that need to be performed
+- [ ] e.g. create branch `feature/xyz`
+- [ ] e.g. Components
+- [ ] e.g. Component Tests
 - [ ] ...
